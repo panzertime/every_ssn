@@ -1,0 +1,7 @@
+The Social Security number is a nine-digit number in the format "AAA-GG-SSSS".[31] The number is divided into three parts: the first three digits, known as the area number because they were formerly assigned by geographical region; the middle two digits, known as the group number; and the final four digits, known as the serial number.
+
+On June 25, 2011, the SSA changed the SSN assignment process to "SSN randomization".[32] SSN randomization affected the SSN assignment process in the following ways:
+
+    It eliminated the geographical significance of the first three digits of the SSN, referred to as the area number, by no longer allocating specific numbers by state for assignment to individuals.
+    It eliminated the significance of the highest group number assigned for each area number, and, as a result, the High Group List is frozen in time and can be used for validation of only those SSNs issued prior to the randomization implementation date (see section "Valid SSNs").
+    Previously unassigned area numbers have been introduced for assignment, excluding area numbers 000, 666 and 900–999.
